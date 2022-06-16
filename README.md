@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriharsha02
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA in Java
+- 👀 I’m interested in Backend Development.
+- 🌱 I’m currently learning DSA and plans to learn nodejs to land in a tech job.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @SAkshintal on Twitter
 
