@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriharsha02
-- 👀 I’m interested in Web Development.
-- 🌱 I have knowledge of DSA, HTML, CSS, JavaScript and currently Backend development in Node and Express
+- 👀 I’m interested in Backend Web Development
+- 🌱 My Skills are DSA, HTML, CSS, JavaScript, MySQL, Node.js, Express.js, Sequelize ORM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @SAkshintal on Twitter
 
