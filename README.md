@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 My Skills are DSA, HTML, CSS, JavaScript, React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @SAkshintal on Twitter
+- 📫 How to reach me @A_Sri_Harsha on Twitter
 
 <!---
 sriharsha02/sriharsha02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
